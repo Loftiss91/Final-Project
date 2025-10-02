@@ -16,9 +16,9 @@ I want the website to give the customer enough information about the services th
 The entire project for the website is due October 03, 2025, the website must be live and hosted by GitHub.
 
 ### I want to provide the following to the customers:
-* All services my business can provide.
-* Costs of all the services.
-
+* Information about services my business can provide.
+* Estimated costs of all the services.
+* Contact information.
 ## Exclusions
 I will not provide information on services my business cannot perform at this time. I will only include the services that I can currently perform. The website will not offer any booking services. The website is only informational and all bookings and estimates will have to be conducted through calls or email.
 
