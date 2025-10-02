@@ -1,6 +1,6 @@
 # Project 03: Final Project - A Full Project Proposal
 ## Dillon Loftiss
-    Reflecting on the entirity of Project 03, I have so many feelings. The strongest feelings at this very moment are happiness and accomplishment. 
+Reflecting on the entirity of Project 03, I have so many feelings. The strongest feelings at this very moment are happiness and accomplishment. 
 As I'm writing this I am struggling to feel confidence though. Which kind of feels weird because I feel accomplished.
 I guess that is a struggle because I fear making mistakes, especially silly mistakes. What went well? Overall I think everything went well, I didn't allow anything to overwhelm me. 
 When I was stuck I checked my notes or reviewed the previous assignments.Looking over the previous assignments helped things "click" for me. 
