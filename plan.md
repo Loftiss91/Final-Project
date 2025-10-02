@@ -19,3 +19,16 @@ Each risk scoring 4 or above.
 | Data insecurity | 4 | Take a break and review what was taught. | Dillon |
 | Slacking off | 4 | Stay motivated to get the job done early. Don't get behind. | Dillon |
 | Burnout | 8 | Take frequent breaks to stay fresh | Dillon |
+
+### Project Schedule
+
+| Task | Time | Who |
+| ----- | ----- | ----- |
+| scope.md | 30 mins | Dillon |
+| project scope statement | 60 mins | Dillon |
+| project plan | 60mins | Dillon |
+| final project proposal retrospective | 120 mins | Dillon |
+| plan.md | 60 mins | Dillon | 
+| index.html | 240 mins | Dillon |
+| style.css | 120 mins | Dillon | 
+| README.md | 30 mins | Dillon |
